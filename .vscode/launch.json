@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BancoApp",
+            "request": "launch",
+            "mainClass": "BancoApp",
+            "projectName": "java-basico_1d2af841"
+        },
+        {
+            "type": "java",
+            "name": "Bank",
+            "request": "launch",
+            "mainClass": "Bank",
+            "projectName": "java-basico_1d2af841"
+        },
+        {
+            "type": "java",
+            "name": "BancoOrganizadorAtivos",
+            "request": "launch",
+            "mainClass": "BancoOrganizadorAtivos",
+            "projectName": "java-basico_1d2af841"
+        },
+        {
+            "type": "java",
+            "name": "EquilibrandoConta",
+            "request": "launch",
+            "mainClass": "EquilibrandoConta",
+            "projectName": "java-basico_1d2af841"
+        },
+        {
+            "type": "java",
+            "name": "FormatadorCep",
+            "request": "launch",
+            "mainClass": "FormatadorCep",
+            "projectName": "java-basico_1d2af841"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -16,7 +51,12 @@
             "request": "launch",
             "mainClass": "AboutMe",
             "projectName": "java-basico_1d2af841",
-            "args": ["GLEYSON", "SAMPAIO", "28", "1.58"]
+            "args": [
+                "GLEYSON",
+                "SAMPAIO",
+                "28",
+                "1.58"
+            ]
         },
         {
             "type": "java",
