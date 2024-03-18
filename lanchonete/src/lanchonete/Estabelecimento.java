@@ -22,14 +22,5 @@ public class Estabelecimento {
 		cliente.fazerPedido();
 		cliente.pagarConta();
 		
-		//não deveria, mas o estabelecimento
-		//ainda não definiu normas de atendimento
-		cliente.pegarPedidoBalcao();
-		
-		//esta ação é muito sigilosa, qua tal ser privada ?
-		cliente.consultarSaldoAplicativo();
-		
-	
-		
 	}
 }
